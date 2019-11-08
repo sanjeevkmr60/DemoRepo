@@ -9,7 +9,6 @@ public class FinalizeConcept {
         f1 = null;
         f2 = null;
         System.gc();
-
     }
 
     public void finalize() {

@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.StringConcepts;
 
 import java.sql.SQLOutput;
 

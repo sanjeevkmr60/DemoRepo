@@ -1,6 +1,6 @@
 package com.qa.Sample;
 
-public class StringonlyConatinDigits {
+public class StringonlyContainDigits {
 
  public static boolean isEmpty(CharSequence cs){
 
