@@ -1,6 +1,8 @@
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ByIdOrName;
+import org.openqa.selenium.support.pagefactory.ByAll;
 
 public class test {
     public static void main(String args[])
@@ -16,6 +18,9 @@ public class test {
         driver.findElement(By.xpath("//input[@type='submit']")).click();
         String currentUrl = driver.getCurrentUrl();
         System.out.println("currentUrl is  = " + currentUrl);
+       //driver.findElement(new ByIdOrName("firstname")).sendKeys("hello");
+        //driver.findElement(new ByAll());
+
 
         driver.close();
     }
