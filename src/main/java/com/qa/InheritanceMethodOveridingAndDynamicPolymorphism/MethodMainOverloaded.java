@@ -1,4 +1,4 @@
-package com.qa.StringConcepts;
+package com.qa.InheritanceMethodOveridingAndDynamicPolymorphism;
 
 public class MethodMainOverloaded {
 
