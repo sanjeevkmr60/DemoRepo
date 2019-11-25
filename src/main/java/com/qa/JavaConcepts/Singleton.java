@@ -10,7 +10,6 @@ public class Singleton {
     private static Singleton singleton_instance=null;
     public String str;
 
-
     private Singleton(){
         str="Hey am using the Singleton class Pattern";
     }

@@ -10,7 +10,7 @@ public class test {
         WebDriver driver;
         System.setProperty("webdriver.chrome.driver", "D:\\chromedriver_win32\\chromedriver.exe");
         driver= new ChromeDriver();
-        driver.get("https://www.facebook.com/");
+        driver.get("https://www.google.com/");
         String title = driver.getTitle();
         System.out.println("title of the application = " + title);
         driver.findElement(By.id("email")).sendKeys("sanjeevkmr531@gmail.com");
