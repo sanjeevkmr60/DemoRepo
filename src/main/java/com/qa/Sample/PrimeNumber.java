@@ -1,7 +1,7 @@
 package com.qa.Sample;
 
 public class PrimeNumber {
-    public static boolean isPolidrome(int num){
+    public static boolean isPrimeNumber(int num){
         if(num<2)
             return false;
 
@@ -15,12 +15,12 @@ public class PrimeNumber {
     public static void getPrimenumbers(int num)
     {
         for(int i=2;i<=num;i++){
-             if(isPolidrome(i))
+             if(isPrimeNumber(i))
                  System.out.println("Prime number is"+i);
         }
     }
      public static void main(String args[]){
-       boolean b=isPolidrome(-1);
+       boolean b=isPrimeNumber(-1);
        if(b==true)
            System.out.println("prime number");
        else

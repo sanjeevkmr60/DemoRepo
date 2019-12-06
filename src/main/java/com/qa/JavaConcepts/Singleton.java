@@ -1,6 +1,6 @@
 package com.qa.JavaConcepts;
 
-public class Singleton {
+public class  Singleton {
 
     //In OOps,Singleton class is a class that can hve only object(instance of the class) at a time
     //how to design the Singleton class
