@@ -1,9 +1,9 @@
-package com.qa.Sample;
+package com.qa.CollectionsConcept;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-import com.qa.Sample.Employee;
+import com.qa.CollectionsConcept.Employee;
 /*Array Properties:
   1.Duplicate values are allowed.
   2.Maintian insertion order.
@@ -68,7 +68,7 @@ public class ArrayListConcept {
         //Iterator to traverse the values
         Iterator<Employee> it1=ar4.iterator();
         while(it1.hasNext()){
-            //System.out.println(it.next()); //it will print in format com.qa.Sample.Employee@27716f4
+            //System.out.println(it.next()); //it will print in format com.qa.SamplePrograms.Employee@27716f4
             Employee emp=it1.next();
             System.out.println(emp.name);
             System.out.println(emp.age);

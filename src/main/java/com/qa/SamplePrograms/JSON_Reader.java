@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.SamplePrograms;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -14,7 +14,7 @@ public class JSON_Reader {
         JSONParser parser = new JSONParser();
         try
         {
-            Object object = parser.parse(new FileReader("Sample.json"));
+            Object object = parser.parse(new FileReader("SamplePrograms.json"));
 
             //convert Object to JSONObject
             JSONObject jsonObject = (JSONObject)object;

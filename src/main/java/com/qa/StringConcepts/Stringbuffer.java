@@ -9,7 +9,7 @@ package com.qa.StringConcepts;
     StringBuffer(String str)->creates String buffer with the Specfied String.
     StringBuffer(int capacity)->create an empty String buffer with an Specified capacity as length.
  */
-public class EX_Stringbuffer {
+public class Stringbuffer {
 
     public static void main(String args[]){
         String s1="Test";

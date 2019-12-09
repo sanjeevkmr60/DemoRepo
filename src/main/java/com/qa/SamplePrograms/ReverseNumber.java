@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.SamplePrograms;
 
 public class ReverseNumber {
     public static void isReverseNumber(int num){

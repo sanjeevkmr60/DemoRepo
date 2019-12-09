@@ -19,7 +19,7 @@ StringBuilder class is same as String Buffer class except that it is not synchro
      of stringbuffer Simultaneously               stringbuilder Simultaneously
      2.it is less efficient than StringBuilder    it is more  efficient than StringBuffer
  */
-public class Example_Stringbuilder {
+public class Stringbuilder {
 
 public static void main(String args[]){
     StringBuffer sb=new StringBuffer();

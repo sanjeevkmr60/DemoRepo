@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.CollectionsConcept;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -36,9 +36,9 @@ public class HashMapConcept {
 
         System.out.println("*********************************");
 
-        Employee e1=new Employee("Sanjeev",27,"QA");
-        Employee e2=new Employee("Tom",27,"Dev");
-        Employee e3=new Employee("Peter",27,"Admin");
+       Employee e1=new Employee("Sanjeev",27,"QA");
+       Employee e2=new Employee("Tom",27,"Dev");
+       Employee e3=new Employee("Peter",27,"Admin");
 
         HashMap<Integer,Employee>  em=new HashMap<Integer, Employee>();
         em.put(1,e1);
@@ -49,7 +49,7 @@ public class HashMapConcept {
         for(Map.Entry<Integer,Employee> entry:em.entrySet()){
             int key=entry.getKey();
             Employee e=entry.getValue();
-            System.out.println(e.name  +"   "  +e.age+  "  "  +e.dept);
+            System.out.println(e.age  +"   "  +e.age+  "  "  +e.dept);
 
 
         }

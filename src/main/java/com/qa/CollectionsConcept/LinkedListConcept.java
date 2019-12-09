@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.CollectionsConcept;
 
 import java.util.Iterator;
 import java.util.LinkedList;

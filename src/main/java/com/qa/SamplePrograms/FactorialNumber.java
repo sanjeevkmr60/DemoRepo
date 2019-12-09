@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.SamplePrograms;
 
 public class FactorialNumber {
           /*  4! = 4*3*2*1 = 24

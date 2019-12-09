@@ -1,4 +1,4 @@
-package com.qa.JavaConcepts;
+package com.qa.SingleTonConcept;
 
 public class  Singleton {
 

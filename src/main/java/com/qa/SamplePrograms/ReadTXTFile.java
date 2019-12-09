@@ -1,4 +1,4 @@
-package com.qa.Sample;
+package com.qa.SamplePrograms;
 
 import java.io.BufferedReader;
 import java.io.File;
