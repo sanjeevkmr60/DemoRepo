@@ -12,11 +12,11 @@ package com.qa.StringConcepts;
 public class Stringbuffer {
 
     public static void main(String args[]){
-        String s1="Test";
+        String s1="Test_Constructor";
         //trying to change the String
         s1.concat("htext");
         //Since String is immutable,so we can't change the String
-        //here we get Test
+        //here we get Test_Constructor
         System.out.println(s1);
 
         //Creating  object of String Buffer

@@ -125,7 +125,7 @@ public class ExtentReportListener implements IReporter {
                 {
                     test.log(status,result.getThrowable());
                 }else{
-                    test.log(status,"Test"+status.toString().toLowerCase()+"ed");
+                    test.log(status,"Test_Constructor"+status.toString().toLowerCase()+"ed");
                 }
                 extent.endTest(test);
            }

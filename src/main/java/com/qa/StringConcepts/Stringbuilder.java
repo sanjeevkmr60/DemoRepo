@@ -24,8 +24,8 @@ public class Stringbuilder {
 public static void main(String args[]){
     StringBuffer sb=new StringBuffer();
     StringBuilder sd=new StringBuilder();
-    sb.append("Test");
-    sd.append("Test");
+    sb.append("Test_Constructor");
+    sd.append("Test_Constructor");
 
     System.out.println(sb);
     System.out.println(sd);

@@ -19,7 +19,7 @@ public class HashMapConcept {
         HashMap<Integer,String>  hm=new HashMap<Integer, String>();
         hm.put(1,"Selenium");
         hm.put(2,"Qtp");
-        hm.put(3,"Test");
+        hm.put(3,"Test_Constructor");
         hm.put(4,"Automtion");
 
         System.out.println(hm.get(1));

@@ -27,7 +27,7 @@ public class GregorianCalendarDemo {
         System.out.print(gcalendar.get(Calendar.MINUTE) + ":");
         System.out.println(gcalendar.get(Calendar.SECOND));
 
-        // Test if the current year is a leap year
+        // Test_Constructor if the current year is a leap year
         if(gcalendar.isLeapYear(year)) {
             System.out.println("The current year is a leap year");
         }else {

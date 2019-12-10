@@ -37,7 +37,7 @@ public class StringManipulation {
         System.out.println(date.replace("/","-"));
 
         System.out.println("********************************");
-        String test="Hello world Test Selenium";
+        String test="Hello world Test_Constructor Selenium";
         String[] split = test.split("");
         for(String st:split)
         System.out.println(st);

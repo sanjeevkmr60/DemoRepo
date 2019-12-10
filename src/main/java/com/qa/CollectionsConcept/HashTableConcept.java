@@ -9,7 +9,7 @@ public class HashTableConcept {
     {
         Hashtable h1=new Hashtable();
         h1.put(1,"Tom");
-        h1.put(2,"Test");
+        h1.put(2,"Test_Constructor");
         h1.put(3,"Java");
 
         System.out.println(h1);
