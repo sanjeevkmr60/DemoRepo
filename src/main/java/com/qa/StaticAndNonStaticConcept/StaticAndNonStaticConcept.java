@@ -1,4 +1,4 @@
-package com.qa.JavaConcepts;
+package com.qa.StaticAndNonStaticConcept;
 
 public class StaticAndNonStaticConcept {
 
