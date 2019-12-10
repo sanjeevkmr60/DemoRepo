@@ -1,4 +1,4 @@
-package com.qa.JavaConcepts;
+package com.qa.JavaBasicConcepts;
 
 public class WrapperClassConcept {
     public static void main(String args[])

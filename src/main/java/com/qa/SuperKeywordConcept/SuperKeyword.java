@@ -1,4 +1,6 @@
-package com.qa.JavaConcepts;
+package com.qa.SuperKeywordConcept;
+
+import com.qa.JavaBasicConcepts.A;
 
 public class SuperKeyword extends A {
 

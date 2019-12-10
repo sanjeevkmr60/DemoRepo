@@ -1,4 +1,4 @@
-package com.qa.JavaConcepts;
+package com.qa.JavaBasicConcepts;
 
 public class CallByValAndCallByRef {
     int p,q;
