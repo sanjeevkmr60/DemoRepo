@@ -1,7 +1,7 @@
 package com.qa.SamplePrograms;
 /*Annagram:
-  For E.G String a1= "Bhanu" and string a2= "nahb".Second String characters are matching in the first String characters
-   is called Anangarm.
+  For E.G String a1= "Bhanu" and string a2= "nahb".Second String characters are matching in the first String
+  characters and Length should be same for two strings is called Anangarm.
  */
 public class IsAnagram {
     //Step-1 convert String into charArray
