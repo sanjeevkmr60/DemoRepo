@@ -6,10 +6,10 @@ StringBuilder class is same as String Buffer class except that it is not synchro
    1.immutable                                mutable
    2.String is slow and consumes more         it is fast and consumes less memory
      memory when you concat too many           when you concat Strings
-     strings beacuse every time it caretes
+     strings beacuse every time it creates
      new instance
-   3.String class overides the equals method    StringBuffer class  deosn't overides the equals method
-     object class.so we can compare the cotents    of object class
+   3.String class overrides the equals method    StringBuffer class  deosn't overides the equals method
+     object class.so we can compare the contents    of object class
      two strings by equals method
 
      *******************************************************************

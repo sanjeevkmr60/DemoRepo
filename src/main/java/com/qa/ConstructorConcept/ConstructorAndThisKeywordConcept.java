@@ -2,7 +2,7 @@ package com.qa.ConstructorConcept;
 
 public class ConstructorAndThisKeywordConcept {
 
-    //class vars:instance varaibles
+    //Class variables are also called as Instance variables
     String name;
     int age;
 

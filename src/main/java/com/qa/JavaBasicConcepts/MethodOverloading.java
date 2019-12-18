@@ -8,7 +8,7 @@ public class MethodOverloading {
         obj.sum(10);
     }
 
-    //Method overlaoding :method withsame with differnt types of arguments
+    //Method overlaoding :method with same with differnt types of arguments
 
     public void sum() {
         System.out.println("Sum method with Zero parameter");

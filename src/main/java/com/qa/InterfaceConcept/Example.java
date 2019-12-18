@@ -4,7 +4,7 @@ package com.qa.InterfaceConcept;
     ex:uncorrect
         void test(){ }
         correct:
-        vois test1();
+        void test1();
   2.Interface members are by default (Public static final)
      ex: int j=90;
          public static final int i=90;

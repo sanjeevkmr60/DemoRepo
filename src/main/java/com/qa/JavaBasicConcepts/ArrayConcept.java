@@ -1,18 +1,19 @@
 package com.qa.JavaBasicConcepts;
+/*
+      Aarray can store similar data type values in the array.
+        int array
+        lowest bound/index =0
+        upper bound/index=n-1(n is the size of the array
+     Disadvantages
+        1.Size is fixed, this called static array.--To overcome this we go for collections-ArrayList,
+         Hash table-->Dynamic Array
+        2.Store only similar datatype--to  overcome this problem we go for object Array.
+
+ */
 
 public class ArrayConcept {
-
     public static void main(String args[])
     {
-        //array can store similar data type values in the array.
-        //1.int array
-        //lowest bound/index =0
-        //upper bound/index=n-1(n is the size of the array
-       // Disadvantages
-        //1.Size is fixed, this called static array.--Toovercome this we go for collections-ArrayList,
-        // Hashtable-->Dynamic Array
-        //2.Store only similar datatype--to  overcome this probelm we go for object Array.
-
         int i[]=new int[4];
         i[0]=10;
         i[1]=20;

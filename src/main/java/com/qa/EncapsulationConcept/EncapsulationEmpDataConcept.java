@@ -1,10 +1,13 @@
 package com.qa.EncapsulationConcept;
 
 public class EncapsulationEmpDataConcept {
-    //Encapsulation is also called datahiding
-    //how to implement Encapsulation
-    //private data varibles
-    //private data varaibles are not accessed directly from outside the class
+    /*
+    Encapsulation is also called Data hiding.
+    How to implement Encapsulation?
+      Private data variables
+      Private data variables are not accessed directly from outside the class.
+     */
+
      private int ssn;
      private String empName;
      private int empAge;

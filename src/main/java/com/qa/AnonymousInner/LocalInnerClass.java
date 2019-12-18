@@ -1,5 +1,5 @@
 package com.qa.AnonymousInner;
-/*
+/*LocalInner class:
    The class which is present with in block or method is called LocalInner class
  */
 

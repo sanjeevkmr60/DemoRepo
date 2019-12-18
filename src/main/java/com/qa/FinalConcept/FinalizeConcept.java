@@ -1,4 +1,8 @@
 package com.qa.FinalConcept;
+/*
+finalize() is called by the garbage collector on an object when garbage collection determines that there are no more references
+ to the object. A subclass overrides the finalize method to dispose of system resources or to perform other cleanup. ...
+ */
 
 public class FinalizeConcept {
 

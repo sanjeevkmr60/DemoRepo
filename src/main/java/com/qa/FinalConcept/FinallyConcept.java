@@ -2,7 +2,7 @@ package com.qa.FinalConcept;
 
 public class FinallyConcept {
 
-    //finally block always will be excuted whether the Expetions come or not
+    //finally block always will be executed whether the Exceptions come or not.
 
     public  static void  test1()
     {

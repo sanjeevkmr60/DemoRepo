@@ -1,7 +1,7 @@
 package com.qa.AnonymousInner;
 /*
 Inner class can access private members of outer class.
-code is optimized and readable .
+Code is optimized and readable.
  */
 public class InnerClass {
     private int a=90;

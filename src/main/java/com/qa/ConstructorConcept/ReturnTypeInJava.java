@@ -5,7 +5,7 @@ package com.qa.ConstructorConcept;
 
  */
 
-public class ReturnTypeinJava {
+public class ReturnTypeInJava {
 
   public void test1(){
   }
@@ -21,8 +21,8 @@ public class ReturnTypeinJava {
     public char test5(){
         return 'a';
     }
-    public ReturnTypeinJava test7(){
-        return new ReturnTypeinJava();
+    public ReturnTypeInJava test7(){
+        return new ReturnTypeInJava ();
     }
     public int[] test8(){
       return new int[7];
@@ -31,7 +31,7 @@ public class ReturnTypeinJava {
     // type is void.
 
     public static void main(String[] args) {
-        ReturnTypeinJava obj=new ReturnTypeinJava();
+        ReturnTypeInJava obj=new ReturnTypeInJava ();
 
         //int a[]=new int[5]; we declare the array in this...
     }
