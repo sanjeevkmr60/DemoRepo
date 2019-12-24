@@ -9,8 +9,7 @@ public class DuplicateElements {
 
     public static void main(String args[]) {
 
-        //String names[] = {"Java", "JavaScript", "Ruby", "C", "Python", "Java", "C"};
-        String names[]={"1","1","2","4","4"};
+        String names[] = {"Java", "JavaScript", "Ruby", "C", "Python", "Java", "C"};
 
 
         //comapare each element

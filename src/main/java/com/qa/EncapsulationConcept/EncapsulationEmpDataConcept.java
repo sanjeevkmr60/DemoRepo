@@ -6,6 +6,12 @@ public class EncapsulationEmpDataConcept {
     How to implement Encapsulation?
       Private data variables
       Private data variables are not accessed directly from outside the class.
+
+    Advantages:
+    1.Data hiding.
+    2.Increased Flexibility.
+    3.Resuabilitiy
+    4.Testing code is easy.
      */
 
      private int ssn;

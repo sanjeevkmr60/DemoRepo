@@ -1,0 +1,34 @@
+Synchronization:
+         Synchronization in java is the capability to control the access of multiple threads to any shared resource.
+         Java Synchronization is better option where we want to allow only one thread to access the shared resource
+
+Why use Synchronization?
+  To prevent thread interference.
+  To prevent consistency problem.
+
+Types of Synchronization:
+    Process Synchronization
+    Thread Synchronization
+
+ Thread Synchronization
+ There are two types of thread synchronization mutual exclusive and inter-thread communication.
+
+ 1.Mutual Exclusive
+     a.Synchronized method.
+     b.Synchronized block.
+     c.static synchronization.
+ 2.Cooperation (Inter-thread communication in java)
+
+ Inter-thread communication in Java
+ Inter-thread communication or Co-operation is all about allowing synchronized threads to communicate with each other.
+
+ Cooperation (Inter-thread communication) is a mechanism in which a thread is paused running in its critical section and another thread is allowed to enter (or lock) in the same critical section to be executed.It is implemented by following methods of Object class:
+
+ wait()
+ notify()
+ notifyAll()
+
+
+
+
+

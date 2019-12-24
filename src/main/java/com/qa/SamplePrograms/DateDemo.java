@@ -2,6 +2,9 @@ package com.qa.SamplePrograms;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
+import org.testng.annotations.Test;
+
+import TestNGConcepts.Car_loan;
 
 public class DateDemo {
 
@@ -22,6 +25,7 @@ public class DateDemo {
 
         // display formatted date
         System.out.printf("%s %tB %<te, %<tY", "Due date:", date);
+
 
         try {
             long start = System.currentTimeMillis( );
