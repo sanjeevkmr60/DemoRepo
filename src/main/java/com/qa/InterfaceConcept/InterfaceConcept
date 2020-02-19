@@ -1,0 +1,6 @@
+Interface:
+An interface in Java is a template of a class.
+This collection of abstract methods means that all methods are abstract methods in the interface.
+With abstract methods, an interface can also contain constants, default methods, static methods, and nested types.
+The interface in Java is a mechanism to achieve completely abstraction.
+It can not be started like an abstract class.

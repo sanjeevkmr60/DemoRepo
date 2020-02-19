@@ -1,0 +1,37 @@
+Java Abstraction:
+Abstraction is the process of hiding the execution details and showing the functionality to the user only.
+Abstraction lets you pay attention to how the object is doing instead of how it is done.
+
+
+Real Life Example of Abstraction:
+We only know about running a car, but it does not know how it works, and we do not even know the internal functionality
+of the car.
+
+
+There are two ways to get an abstraction in Java:
+
+Abstract class (0 to 100% abstraction)
+Interface (100% abstraction is received)
+
+
+Abstract class / method:
+
+An abstract class is a class that has been declared with the keyword abstract.
+It can be mixed with implementation or without declared methods.
+It needs to be expanded and all abstract methods should be implemented in the child class.
+It can not be interpreted to mean that you can not make an object of an abstract class.
+Abstract method is a method which has been declared without implementation.
+
+
+Syntax:
+
+abstract class A{}
+1
+abstract class A{}
+
+
+When do you use java abstraction?
+When you know that there must be something, but it is not certain how it should look.
+
+Benefits of java Abstraction:
+By using abstraction, we can separate things that can be grouped in some other way.
