@@ -14,7 +14,7 @@ Need of super Keyword:Whenever derived class is inherits the base class features
        varaible of parent of parent class ,you need to use the super keyword.
  */
 
-public class A {
+public class    A {
 
     public String color="White";
 }

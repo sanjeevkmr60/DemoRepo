@@ -14,7 +14,7 @@ public class JSON_Reader {
         JSONParser parser = new JSONParser();
         try
         {
-            Object object = parser.parse(new FileReader("SamplePrograms.json"));
+            Object object = parser.parse(new FileReader("D:\\SampleTest\\DemoRepo\\Sample.json"));
 
             //convert Object to JSONObject
             JSONObject jsonObject = (JSONObject)object;

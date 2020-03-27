@@ -1,6 +1,6 @@
 package com.qa.SamplePrograms;
 
-public class FactorialNumber {
+public class  FactorialNumber {
           /*  4! = 4*3*2*1 = 24
             5! = 5*4*3*2*1 = 120*/
 

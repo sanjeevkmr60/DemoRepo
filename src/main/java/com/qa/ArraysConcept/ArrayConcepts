@@ -1,0 +1,58 @@
+Java Array:
+
+The array is a collection of elements of the same type that are nearby memory spaces.
+We can store only a certain set of elements in a java array.
+The array index is based, the first element of the array is stored in the 0 index.
+
+
+Types of Array:
+
+One Dimensional Array
+Two Dimensional Array
+
+Array Features:
+
+It is always indexed. Index starts with 0.
+This is a collection of similar data types.
+It is in a closest memory place.
+
+
+ One dimensional array:
+ A one-dimensional array is like a spreadsheet with data in only one line.
+
+
+ Syntax:
+
+ dataType[] arr; (or)
+
+ dataType []arr; (or)
+
+ dataType arr[];
+
+ dataType[] arr; (or)
+
+ dataType []arr; (or)
+
+ dataType arr[];
+
+ Two Dimensional Array:
+ In the Java software development language, two-dimensional array is like a spreadsheet with multiple rows and columns, each with different data in each slot.
+ Each cell will be identified by its unique line and column index combination (e.g. SR 1 [3] [2]).
+ We can use a two-dimensional array to store user IDs and passwords of different users.
+ Syntax:
+
+ dataType[][] arrayRefVar; (or)
+
+ dataType [][]arrayRefVar; (or)
+
+ dataType arrayRefVar[][]; (or)
+
+ dataType []arrayRefVar[];
+
+ dataType[][] arrayRefVar; (or)
+
+ dataType [][]arrayRefVar; (or)
+
+ dataType arrayRefVar[][]; (or)
+
+ dataType []arrayRefVar[];

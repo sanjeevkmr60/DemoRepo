@@ -19,7 +19,7 @@ public class MissingNumber {
 
         }
 
-        System.out.println(sum);
+        System.out.println(sum1);
 
         System.out.println("MissingNumber is "+(sum1-sum));
     }

@@ -1,0 +1,18 @@
+String Methods Explanation:
+
+
+int length(): Returns the number of characters in the String.
+Char charAt(int i): Returns the character at ith index.
+String substring (int i): go back the substring from the ith index person to cease.
+String substring (int i, int j): Returns the substring from i to j-1 index.
+String concat( String str): Concatenates precise string to the stop of this string.
+int indexOf (String s): Returns the index inside the string of the first occurrence of the desired string.
+int indexOf (String s, int i): Returns the index inside the string of the first prevalence of the specified string, starting at the required index.
+boolean equals( item otherObj): Compares this string to the required object.
+boolean equalsIgnoreCase (String anotherString): Compares string to every other string, ignoring case concerns.
+int compareTo( String anotherString): Compares string lexicographically.
+int compareToIgnoreCase( String anotherString): Compares string lexicographically, ignoring case considerations.
+String toLowerCase(): Converts all of the characters within the String to decrease case.
+String toUpperCase(): Converts all of the characters in the String to upper case.
+String trim(): Returns the reproduction of the String, by disposing of whitespaces at each ends. It does no longer affectwhitespaces inside the center.
+String replace (char oldChar, char newChar): Returns new string by replacing all occurrences of oldChar with newChar.
